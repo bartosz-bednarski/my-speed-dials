@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f34c526.css",
+    "main.js": "/static/js/main.0ac6724c.js",
+    "static/media/cloudy_day.png": "/static/media/cloudy_day.5aff0f182f2efb321ce3.png",
+    "index.html": "/index.html",
+    "main.4f34c526.css.map": "/static/css/main.4f34c526.css.map",
+    "main.0ac6724c.js.map": "/static/js/main.0ac6724c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f34c526.css",
+    "static/js/main.0ac6724c.js"
+  ]
+}
