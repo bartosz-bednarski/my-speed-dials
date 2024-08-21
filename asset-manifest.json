@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/my-speed-dials/static/css/main.4f34c526.css",
-    "main.js": "/my-speed-dials/static/js/main.29ca0d4f.js",
+    "main.css": "/my-speed-dials/static/css/main.5a168a27.css",
+    "main.js": "/my-speed-dials/static/js/main.25419477.js",
     "static/media/cloudy_day.png": "/my-speed-dials/static/media/cloudy_day.5aff0f182f2efb321ce3.png",
+    "static/media/ChatGpt.png": "/my-speed-dials/static/media/ChatGpt.edabeef52caef566e7ba.png",
     "index.html": "/my-speed-dials/index.html",
-    "main.4f34c526.css.map": "/my-speed-dials/static/css/main.4f34c526.css.map",
-    "main.29ca0d4f.js.map": "/my-speed-dials/static/js/main.29ca0d4f.js.map"
+    "main.5a168a27.css.map": "/my-speed-dials/static/css/main.5a168a27.css.map",
+    "main.25419477.js.map": "/my-speed-dials/static/js/main.25419477.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f34c526.css",
-    "static/js/main.29ca0d4f.js"
+    "static/css/main.5a168a27.css",
+    "static/js/main.25419477.js"
   ]
 }
