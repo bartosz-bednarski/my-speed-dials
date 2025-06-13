@@ -16,7 +16,7 @@ export const Icons = [
   {
     icon: "Jira",
     title: "Jira",
-    url: "https://geometa.atlassian.net/jira/software/projects/FNW/boards/6",
+    url: "https://websquirrel.atlassian.net/jira/your-work",
   },
   { icon: "Behance", title: "Behance", url: "https://www.behance.com/" },
   { icon: "Dribble", title: "Dribble", url: "https://www.dribble.com/" },
@@ -33,14 +33,19 @@ export const Icons = [
   { icon: "Amazon", title: "Amazon", url: "https://www.amazon.pl/" },
 
   {
-    icon: "CyberFolks",
-    title: "CyberFolks",
-    url: "https://cyberfolks.pl/logowanie-panel-klienta/",
+    icon: "Hostinger",
+    title: "Hostinger",
+    url: "https://www.hostinger.com/pl/1",
   },
   { icon: "ChatGpt", title: "ChatGpt", url: "https://chatgpt.com/" },
   {
+    icon: "Analytics",
+    title: "Google Analytics",
+    url: "https://analytics.google.com/analytics/web/?utm_source=OGB&utm_medium=app&authuser=4#/p491039165/reports/intelligenthome",
+  },
+  {
     icon: "GoogleSearchConsole",
     title: "Google Search Console",
-    url: "https://search.google.com/u/3/search-console?resource_id=https%3A%2F%2Ffilmnawieczor.pl%2F",
+    url: "https://search.google.com/u/4/search-console?resource_id=sc-domain%3Awebsquirrel.pl",
   },
 ];
